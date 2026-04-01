@@ -68,3 +68,6 @@
 #hrs::after{
     content: 'HOURS';
 }
+#min::after{
+    content: 'MINS';
+}
