@@ -10,3 +10,11 @@
     background: linear-gradient(45deg, #08001f, #30197d);
     color: #fff;
 }
+.container{
+    width: 800px;
+    height: 180px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
